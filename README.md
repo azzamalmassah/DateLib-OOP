@@ -95,9 +95,9 @@ dateLibrary/
 ```
 ## Notes
 
-# This project focuses on clean OOP design for date handling.
+### This project focuses on clean OOP design for date handling.
 
-# No external libraries required.
+### No external libraries required.
 
 # Designed for learning, practice, and reuse in C++ projects.
-``````
+
