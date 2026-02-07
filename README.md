@@ -93,11 +93,10 @@ dateLibrary/
     └── dateLibrary.vcxproj.filters
 
 ```
-## Notes
+## 📝 Notes
 
-### This project focuses on clean OOP design for date handling.
+> - This project focuses on clean, object-oriented design for date handling.  
+> - No external libraries are required.  
+> - Designed for learning, practice, and reuse in C++ projects.
 
-### No external libraries required.
-
-# Designed for learning, practice, and reuse in C++ projects.
 
